@@ -1,4 +1,5 @@
 # DataStruct
 This is my book notes.
-the list.c 是链表.
-the order sheet.c 是顺序表
+the list.c is the list
+the order sheet.c is the order sheet.
+order of the stack.c is order of the stack.
